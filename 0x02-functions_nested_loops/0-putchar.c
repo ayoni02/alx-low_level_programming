@@ -9,7 +9,7 @@ int main(void)
 	char musshy[] = "_putchar";
 	int i = 0;
 
-	while (holberton[i] != '\0')
+	while (musshy[i] != '\0')
 	{
 		_putchar(musshy[i]);
 		i++;
